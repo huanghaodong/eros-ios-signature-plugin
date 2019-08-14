@@ -1,4 +1,5 @@
 
+use
 ```
 const Sign = weex.requireModule('sign')
 
