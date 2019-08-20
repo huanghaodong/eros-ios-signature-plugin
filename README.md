@@ -1,4 +1,4 @@
-
+![avatar](http://chuantu.xyz/t6/702/1566271623x1033347913.gif)
 use
 ```
 const Sign = weex.requireModule('sign')
